@@ -1,0 +1,10 @@
+boxing-tactical-agent/
+│
+├── backend/
+│   ├── app.py              # Le code Python Flask
+│   └── requirements.txt    # Les dépendances Python (Flask, flask-cors, openai)
+│
+├── frontend/
+│   └── index.html          # Votre page web au design "détermination"
+│
+└── README.md               # Description du projet
